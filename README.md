@@ -15,7 +15,7 @@ My most recent studies are being made at CodeCrypto Academy for a Masters Degree
 
 ###### Web2.5 
 - **Faucet**  
-  REST API developed with **Node.js** and **MongoDB**, enhancing backend capabilities.  
+  REST API developed with **Node.js** and **React**, enhancing backend capabilities.  
   [https://github.com/codecrypto-academy/robgaleano/tree/web2.5-faucet](https://github.com/codecrypto-academy/robgaleano/tree/web2.5-faucet)
 
   
