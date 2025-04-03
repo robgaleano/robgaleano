@@ -13,10 +13,15 @@ My most recent studies are being made at CodeCrypto Academy for a Masters Degree
 
 ## Projects
 
-###### Web2.5 
-- **Faucet**  
+###### Web2.5
+
+✅ **ETH Testnet Faucet**  
   REST API developed with **Node.js** and **React**, enhancing backend capabilities.  
   [https://github.com/codecrypto-academy/robgaleano/tree/web2.5-faucet](https://github.com/codecrypto-academy/robgaleano/tree/web2.5-faucet)
+  
+✅ **ETH Testnet Shopping Basket**
+  Demo E-Commerce with **Node.js**, **React** and **Podman** to provide a token based shopping experience.
+  [https://github.com/codecrypto-academy/robgaleano/tree/web2.5-shop-basket](https://github.com/codecrypto-academy/robgaleano/tree/web2.5-shop-basket)
 
   
 
